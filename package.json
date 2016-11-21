@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/mpeinado/jQueryPluignTemplate.git"
+    "url": "https://github.com/mpeinado/jQueryPluignTemplate.git"
   },
   "keywords": [
     "JavaScript",
