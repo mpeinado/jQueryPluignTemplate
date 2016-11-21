@@ -1,0 +1,27 @@
+{
+  "name": "jqueryplugintemplate",
+  "version": "1.0.0",
+  "description": "Template to create jQuery plugins",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mpeinado/jQueryPluignTemplate.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "jQuery",
+    "jQuery",
+    "Plugin",
+    "npm",
+    "git"
+  ],
+  "author": "Marco Peinado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpeinado/jQueryPluignTemplate/issues"
+  },
+  "homepage": "https://github.com/mpeinado/jQueryPluignTemplate#readme"
+}
